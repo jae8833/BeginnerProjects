@@ -1,3 +1,5 @@
+#prints a madlib story based on user inputs
+
 # get inputs from user
 name = input("Name: ")
 adj = input("Adjective: ")
